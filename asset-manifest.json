@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/harry-potter-elixirs/static/css/main.5c6d3881.css",
+    "main.js": "/harry-potter-elixirs/static/js/main.8b911c97.js",
+    "static/media/360_F_545893318_6tVQPrdOs6otdf6cvkiZ3yz0MJzYTrUn.jpg": "/harry-potter-elixirs/static/media/360_F_545893318_6tVQPrdOs6otdf6cvkiZ3yz0MJzYTrUn.d5a6d2811ab5a2bdee02.jpg",
+    "index.html": "/harry-potter-elixirs/index.html",
+    "main.5c6d3881.css.map": "/harry-potter-elixirs/static/css/main.5c6d3881.css.map",
+    "main.8b911c97.js.map": "/harry-potter-elixirs/static/js/main.8b911c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6d3881.css",
+    "static/js/main.8b911c97.js"
+  ]
+}
