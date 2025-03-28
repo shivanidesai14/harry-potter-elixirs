@@ -101,6 +101,12 @@ table {
   overflow: hidden;
   box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
 }
+.no-elixirs {
+  text-align: center;
+  height: 100px; 
+  line-height: 100px; 
+
+}
 
 th, td {
   padding: 14px;

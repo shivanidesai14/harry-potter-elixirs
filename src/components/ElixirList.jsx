@@ -38,7 +38,7 @@ const ElixirList = ({ elixirs, loading, error }) => {
             ))
           ) : (
             <tr>
-              <td colSpan="5">No elixirs found</td>
+              <td colSpan="5" className="no-elixirs">No elixirs found</td>
             </tr>
           )}
         </tbody>
